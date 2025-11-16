@@ -1,0 +1,11 @@
+role,skills
+data analyst,"Python, SQL, Statistics, Excel, Data Visualization, Tableau, Power BI, ETL, Pandas"
+machine learning engineer,"Python, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, MLOps, Git, Docker"
+data scientist,"Python, Statistics, Probability, Machine Learning, SQL, Experimentation, Feature Engineering, Visualization, NLP"
+frontend developer,"HTML, CSS, JavaScript, React, Git, Testing, Accessibility, Performance"
+backend developer,"Python, Java, Node.js, REST APIs, Databases, SQL, Docker, Authentication"
+devops engineer,"Linux, Bash, Docker, Kubernetes, CI/CD, AWS, Monitoring, Terraform"
+business analyst,"Excel, SQL, Power BI, Data Modeling, Requirements, Stakeholder Communication, Visualization"
+computer vision engineer,"Python, OpenCV, NumPy, Deep Learning, PyTorch, TensorFlow, CNNs, Data Annotation"
+nlp engineer,"Python, Transformers, Hugging Face, Tokenization, Text Classification, Embeddings, Vector DB"
+cybersecurity analyst,"Networking, Linux, SIEM, Threat Detection, Python, Incident Response, Vulnerability Assessment"
